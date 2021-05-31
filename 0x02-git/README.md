@@ -1,0 +1,1 @@
+another [^weirdly] *emphasized* __emphasized__ **strong** __markdown text__
