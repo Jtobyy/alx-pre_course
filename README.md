@@ -1,0 +1,1 @@
+some **strong** __weird__ *Emphsize* __markdown__ text
